@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working **Frontend Digital VLSI Engineering.**
   
-- 🌱 I’m currently learning **RISC-V(rv-32i).**
+- 🌱 I’m currently learning **RISC-V(rv-32i), FPGA BASED NETWORK STACK USING VERILOG HDL.**
 
 - 🤝 I’m looking for help with **PS - PL data transfer**.
   
