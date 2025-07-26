@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sonu Tripathi</h1>
+<h3 align="center">A passionate FPGA/RTL/Embedded Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<!--
-**8307820421/8307820421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8307820421&label=Profile%20views&color=0e75b6&style=flat" alt="8307820421" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working **Frontend Digital VLSI Engineering.**
+  
+- 🌱 I’m currently learning **RISC-V(rv-32i).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **PS - PL data transfer**.
+  
+- All of my projects are available at          https://github.com/8307820421?tab=repositories.
+
+- 👨‍💻 All of my projects are also available at [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
+
+- 📝 I regularly write articles on            [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
+
+- 📫 How to reach me **sonutirpathi42@gmail.com**
+
+- Know about my experience visit my profile   [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
+
+⚡ Fun fact **I am funny😂.**
+
+👉 **FOR VIVADO PROJECTS:**
+
+-  First clone the respective project and follow the  path for rtl and tb.
+
+👉 **LANGUAGES and TOOLS:**
+
+-  VERILOG, SV, C, PYTHON , AMD VIVADO 2022.2, AMD VIVADO 2023.2 ,AMD VIVADO 2024.1, CADENCE XECELIUM, EDA Playground (Synopsys).
+
+👉 **ARCHITECTURAL KNOWLEDGE:**
+
+-  MICROBLAZE PROCESSOR , ARM CORTEX PROCESSOR, RISC V CPU.
+
+👉 **FPGA TESTING AND DEBUGGING:**
+
+-  Zynq 7000, Basys3, CMOD-S7, Artix-S7-25.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sonu-tripathi-6170261b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu tripathi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Xilinx_logo.svg" alt="VIVADO" width="40" height="40"/>
+  </a>
+</p>
+
