@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8307820421&label=Profile%20views&color=0e75b6&style=flat" alt="8307820421" /> </p>
 
-- 🌱 I’m currently working **Frontend Digital VLSI Engineering.**
+- 🌱 I’m currently working in **Frontend Digital VLSI Engineer.**
   
 - 🌱 I’m currently learning **RISC-V(rv-32i), FPGA BASED NETWORK STACK USING VERILOG HDL.**
 
