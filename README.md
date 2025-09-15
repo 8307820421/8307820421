@@ -9,7 +9,9 @@
   
 - 🌱 I’m currently learning **RISC-V(rv-32i), FPGA BASED NETWORK STACK USING VERILOG HDL.**
 
-- 🤝 I’m looking for help with **PS - PL data transfer**.
+- 🌱 I’m currently learning and working on  **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware level.**
+
+- 🤝 I’m looking for help with **PS - PL data transfer. I have implemented the IP integration with respect to the PS side SPI master Logic.**.
   
 - All of my projects are available at          https://github.com/8307820421?tab=repositories.
 
