@@ -23,7 +23,7 @@
 
 - Know about my experience visit my Linkdein profile   [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
 
-⚡ Fun fact **I am funny😂 and curious to learn new things specifcially related Algorithmic Development at RTL level**.
+⚡ Fun fact **I am funny😂 and curious to learn new things specifcially related to Algorithmic Development at RTL level in the field of Data centres**.
 
 👉 **FOR VIVADO PROJECTS:**
 
