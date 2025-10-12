@@ -1,15 +1,15 @@
 ![logo](https://www.acldigital.com/wp-content/uploads/2025/02/Revolutionizing-VLSI-Design-with-RISC-V-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sonu Tripathi</h1>
-<h3 align="center">A passionate FPGA/RTL/Embedded Developer from INDIA</h3>
+<h3 align="center">A passionate FPGA/RTL/Embedded/Application Engineer from INDIA</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8307820421&label=Profile%20views&color=0e75b6&style=flat" alt="8307820421" /> </p>
 
-- 🌱 I’m currently working in **Frontend Digital VLSI Engineer.**
+- 🌱 I’m currently working in  the field of **Frontend Digital VLSI Engineer ** at BERRYLINE LABS PVT LTD.
   
-- 🌱 I’m currently learning **RISC-V(rv-32i), FPGA BASED NETWORK STACK USING VERILOG HDL.**
+- 🌱 I’m currently learning **RISC-V(rv-32i)**, **FPGA BASED NETWORK STACK USING VERILOG HDL in the field of data centres for India** .
 
-- 🌱 I’m currently learning and working on  **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware level.**
+- 🌱 I’m currently learning and working on **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware level** at BERRYLINE LABS PVT LTD.
 
 - 🤝 I’m looking for help with **PS - PL data transfer. I have implemented the IP integration with respect to the PS side SPI master Logic.**.
   
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **sonutirpathi42@gmail.com**
 
-- Know about my experience visit my profile   [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
+- Know about my experience visit my Linkdein profile   [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
 
-⚡ Fun fact **I am funny😂.**
+⚡ Fun fact **I am funny😂 and curious to learn new things specifcially related Algorithmic Development at RTL level**.
 
 👉 **FOR VIVADO PROJECTS:**
 
@@ -39,7 +39,7 @@
 
 👉 **FPGA TESTING AND DEBUGGING:**
 
--  Zynq 7000, Basys3, CMOD-S7, Artix-S7-25.
+-  Zynq 7000, Basys3, CMOD-S7, Artix-S7-25 , ZCU102 FPGA SET UP with High Speed ADC and DAC Interface like AD9082 and AFE7900EVM in the field of high speed Digital Signal Processing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
