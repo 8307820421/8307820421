@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working in  the field of **Frontend Digital VLSI Engineer ** at BERRYLINE LABS PVT LTD.
   
+- 🌱 I’m currently  working on **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware & Software level Integration** at BERRYLINE LABS PVT LTD. 
+  
 - 🌱 I’m currently learning **RISC-V(rv-32i)**, **FPGA BASED NETWORK STACK USING VERILOG HDL in the field of data centres for India** .
-
-- 🌱 I’m currently learning and working on **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware level** at BERRYLINE LABS PVT LTD.
 
 - 🤝 I’m looking for help with **PS - PL data transfer. I have implemented the IP integration with respect to the PS side SPI master Logic.**.
   
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on            [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
 
-- 📫 How to reach me **sonutirpathi42@gmail.com**
+- 📫 To know about my detailed experience on which product development  I am working  anyone can reach out to me at **sonutirpathi42@gmail.com** 
 
 - Know about my experience visit my Linkdein profile   [https://www.linkedin.com/in/sonu-tripathi-6170261b2](https://www.linkedin.com/in/sonu-tripathi-6170261b2)
 
