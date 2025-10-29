@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working in  the field of **Frontend Digital VLSI Engineer ** .
   
-- 🌱 I’m currently  working on **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware & Software level Integration** at BERRYLINE LABS PVT LTD. 
+- 🌱 I’m currently  working on **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware & Software level Integration**. 
   
 - 🌱 I’m currently learning **RISC-V(rv-32i)**, **FPGA BASED NETWORK STACK USING VERILOG HDL in the field of data centres for India** .
 
