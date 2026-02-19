@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8307820421&label=Profile%20views&color=0e75b6&style=flat" alt="8307820421" /> </p>
 
-- 🌱 I’m currently working in  the field of **Frontend Digital VLSI Engineer ** .
+- 🌱 I’m currently working in  the field of ** Digital VLSI Engineer ** .
   
 - 🌱 I’m currently  working on **ZCU102 FPGA integration with AFE7900EVM(high speed ADC and DAC) via TIJESD204C protocol IP at hardware & Software level Integration**. 
   
